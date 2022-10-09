@@ -2,7 +2,9 @@
 
 ## Participants
 Github: @rsarthak
+
 Twitter: @sarthak_Raj746
+
 Discord: Sarthak Rajput#2257
 
 ## Description
